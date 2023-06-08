@@ -1,6 +1,6 @@
 {
     "name": "@mastercloudapps/complex-node",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Library to work with complex numbers",
     "repository": {
         "type": "git",
